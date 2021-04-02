@@ -11,3 +11,10 @@ To run the app:
 ```
 parcel index.html
 ```
+
+To generate fake information, the [faker](https://www.npmjs.com/package/faker) package is installed with npm:
+
+```
+npm i faker
+npm i @types/faker
+```
