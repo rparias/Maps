@@ -18,3 +18,9 @@ To generate fake information, the [faker](https://www.npmjs.com/package/faker) p
 npm i faker
 npm i @types/faker
 ```
+
+To recognize google as a global object, it's important to install types for google maps:
+
+```
+npm i @types/googlemaps
+```
