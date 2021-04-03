@@ -3,4 +3,6 @@ export interface Mappable {
     lat: number;
     lon: number;
   }
+
+  markerContent(): string;
 }
